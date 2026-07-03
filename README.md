@@ -29,9 +29,12 @@ gcc main.c -o program
 ```bash
 ./program
 ```
+## Program Görünümü
 
-Windows için:
+### Ana Menü
 
-```bash
-program.exe
-```
+![Ana Menü](program1.png)
+
+### Program Çalışırken
+
+![Program Çalışırken](program2.png)
